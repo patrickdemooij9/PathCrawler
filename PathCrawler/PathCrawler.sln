@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathCrawler", "PathCrawler\PathCrawler.csproj", "{D165FE4E-2A67-4933-8B44-3EE9B3C97BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D165FE4E-2A67-4933-8B44-3EE9B3C97BD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D165FE4E-2A67-4933-8B44-3EE9B3C97BD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D165FE4E-2A67-4933-8B44-3EE9B3C97BD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D165FE4E-2A67-4933-8B44-3EE9B3C97BD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3873543-C141-488B-90CA-8C6AC214DBF7}
+	EndGlobalSection
+EndGlobal
